@@ -15,5 +15,6 @@ If Automate is not working, try manually
 ```
 cd kali-dark-Terminal-Theme
 sudo cp Kali-Dark.colorscheme /usr/share/qtermwidget5/color-schemes
+sudo cp Kali-Dark.colorscheme /usr/share/qtermwidget6/color-schemes
 ```
 # Now restart your Kali Linux
