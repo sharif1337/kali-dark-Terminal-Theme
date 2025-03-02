@@ -10,7 +10,7 @@ cd kali-dark-Terminal-Theme
 chmod +x add-kali-dark.sh
 sudo bash add-kali-dark.sh
 ```
-If **`Method 1`** is not working, try manually
+If **`Method 1`** is not working, try **`Method 2`**
 ## Method 2
 ```
 cd kali-dark-Terminal-Theme
