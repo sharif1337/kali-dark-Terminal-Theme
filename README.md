@@ -4,14 +4,14 @@
 ```
 git clone https://github.com/sharif1337/kali-dark-Terminal-Theme
 ```
-## Automate
+## Method 1
 ```
 cd kali-dark-Terminal-Theme
 chmod +x add-kali-dark.sh
 sudo bash add-kali-dark.sh
 ```
-If Automate is not working, try manually
-## Manually
+If **`Method 1`** is not working, try manually
+## Method 2
 ```
 cd kali-dark-Terminal-Theme
 sudo cp Kali-Dark.colorscheme /usr/share/qtermwidget5/color-schemes
